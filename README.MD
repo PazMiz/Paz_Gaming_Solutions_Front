@@ -44,29 +44,28 @@ python manage.py runserver
 
 ## !!!!Front!!    ###
 
-# Using React Native Expo as the Frontend
+Using React Native Expo as the Frontend
 
-# Navigate to the frontend Directory: In a new terminal window, navigate to the frontend directory of the Paz App repository.
+Navigate to the frontend Directory: In a new terminal window, navigate to the frontend directory of the Paz App repository.
 
-# cd PazApplication/PazApplication
+ cd 
 
-# Install Dependencies: Install the required Node.js packages
+ Install Dependencies: Install the required Node.js packages
 
-# npm install
+ npm install
 
 
-# Start the Expo Development Server:
+Start the Expo Development Server:
 
 npm start
 
 
-# Explore and Enjoy: Use the Paz App to connect with gamers, share your gaming experiences, and engage in discussions. Enjoy your gaming journey with Paz App!
+Explore and Enjoy: Use the Paz App to connect with gamers, share your gaming experiences, and engage in discussions. Enjoy your gaming journey with Paz App!
 
  # Support
-# If you encounter any issues, have questions, or want to provide feedback, please don't hesitate to reach out to our support team at paz71429@gmail.com.
+ If you encounter any issues, have questions, or want to provide feedback, please don't hesitate to reach out to our support team at paz71429@gmail.com.
 
-# Stay connected, game on, and enjoy your journey through the gaming world with Paz App!
+ Stay connected, game on, and enjoy your journey through the gaming world with Paz App!
 
 
-# Paz_Gaming_Solutions
 # Paz_Gaming_Solutions_Front
