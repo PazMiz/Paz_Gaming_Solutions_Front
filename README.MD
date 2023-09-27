@@ -22,6 +22,7 @@ Welcome to Paz App, your ultimate destination for connecting with fellow gamers 
    ```shell
    git clone https://github.com/yourusername/paz-app.git
 
+
 2. ** Set Up the Backend:
 
 Navigate to the backend directory.
