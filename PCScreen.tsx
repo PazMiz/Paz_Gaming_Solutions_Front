@@ -122,7 +122,7 @@ const PCScreen: React.FC = () => {
   return (
     <View style={styles.container}>
       <Image
-        source={require('/Users/pazmizrahi/Desktop/pazprojects/Paz_Gaming_Solutions-PazMiz-patch-1/back/media/photos/pcgames.png')}
+        source={require('./media/photos/pcgames.png')}
         style={styles.pcImage}
       />
       <Text style={styles.title}>PC Topics</Text>
@@ -146,7 +146,7 @@ const PCScreen: React.FC = () => {
       ) : (
         <Text>Please log in to create posts.</Text>
       )}
-        {isLoggedIn === true ? (
+      {isLoggedIn === true ? (
         <FlatList
           data={topics}
           keyExtractor={(item) => item.id.toString()}
@@ -163,9 +163,9 @@ const PCScreen: React.FC = () => {
           )}
         />
       ) : (
-  <Text style={styles.loginMessage}>Please log in to view PC Post. © PazMiz</Text>
-        
-        
+        <Text style={styles.loginMessage}>Please log in to view PC Post. © PazMiz</Text>
+
+
       )}
     </View>
   );

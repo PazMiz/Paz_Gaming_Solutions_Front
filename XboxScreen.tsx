@@ -121,7 +121,7 @@ const XboxScreen: React.FC = () => {
   return (
     <View style={styles.container}>
       <Image
-        source={require('/Users/pazmizrahi/Desktop/pazprojects/Paz_Gaming_Solutions-PazMiz-patch-1/back/media/photos/xboxgames.jpeg')}
+        source={require('./media/photos/xboxgames.jpeg')}
         style={styles.xboxImage}
       />
       <Text style={styles.title}>Xbox Topics</Text>
