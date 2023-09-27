@@ -20,8 +20,9 @@ Welcome to Paz App, your ultimate destination for connecting with fellow gamers 
 1. **Clone the Repository:** Begin by cloning the Paz App repository to your local machine.
 
    ```shell
-   git clone https://github.com/PazMiz/Paz_Gaming_Solutions_Front/
+Clone The Frontend - git clone https://github.com/PazMiz/Paz_Gaming_Solutions_Front/
 
+Clone The backend - git clone https://github.com/PazMiz/Paz_Gaming_Solutions_Back
 
 2. ** Set Up the Backend:
 
